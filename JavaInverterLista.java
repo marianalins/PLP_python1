@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Main {
+public class JavaInverterLista {
 
     public static List<Integer> inverter_lista (int... valores) {
 
